@@ -4,4 +4,4 @@ A simple bash-script to create a pdf-file from images or other pdfs using pdflat
 
 ##Usage
 
-./makepdf filename.pdf page1.jpg [page2.* ...]
+./makepdf.sh filename.pdf page1.jpg [page2.* ...]
