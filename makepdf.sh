@@ -2,7 +2,7 @@
 
 if [ -e $1 ]
 then
-    echo $1 Existiert schon. Neuen Dateinamen für Ausgabedatei wählen.
+    echo $1 already exists. Please choose another name for your new PDF.
     exit 1
 fi
 
